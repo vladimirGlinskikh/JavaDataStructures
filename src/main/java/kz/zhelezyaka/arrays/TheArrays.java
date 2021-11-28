@@ -1,4 +1,4 @@
-package kz.zhelezyaka;
+package kz.zhelezyaka.arrays;
 
 import java.util.Arrays;
 
